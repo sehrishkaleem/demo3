@@ -1,3 +1,4 @@
 hello world
 hi h r u
 this is testing merge
+this is smart git merge
