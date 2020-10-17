@@ -1,2 +1,3 @@
 this is merge commit 1
 merge commit secont commit in smartgit
+this is git rebase 2
