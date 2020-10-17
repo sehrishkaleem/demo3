@@ -1,1 +1,2 @@
 this is merge commit 1
+merge commit secont commit in smartgit
